@@ -1,4 +1,5 @@
 /* added comments  */
+/* added more comments */
 
 
 SELECT * FROM DM_MEDICAID.CLAIM_ENCOUNTER_OTHER;
